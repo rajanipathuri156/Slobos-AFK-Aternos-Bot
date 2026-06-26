@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "TeamSurvival_.aternos.me:39675",
+    "ip": "TeamSurvival_.aternos.me",
     "port": 39675,
     "version": "",
     "try-creative": false
